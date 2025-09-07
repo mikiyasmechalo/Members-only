@@ -1,6 +1,8 @@
 # Odin Members Only App
 
-![App Screenshot](/public/images/app_screenshot.png) A full-stack web application built as part of The Odin Project's curriculum, demonstrating user authentication, membership features, and basic CRUD operations (Create, Read, Update, Delete) for messages.
+![App Screenshot](/public/images/screenshot.png) 
+
+A full-stack web application built as part of The Odin Project's curriculum, demonstrating user authentication, membership features, and basic CRUD operations (Create, Read, Update, Delete) for messages.
 
 ## Table of Contents
 
@@ -197,6 +199,3 @@ This project is open-source and available under the [MIT License](https://openso
   - [Tailwind CSS](https://tailwindcss.com/)
 
 <!-- end list -->
-
-```
-```
